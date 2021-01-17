@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance.csproj", "{DA74DD09-C495-4C65-9B82-50EAB8ED7666}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amazon", "..\Amazon\Amazon.csproj", "{51BED931-D364-47E2-B0A2-EB656420FF21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA74DD09-C495-4C65-9B82-50EAB8ED7666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA74DD09-C495-4C65-9B82-50EAB8ED7666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA74DD09-C495-4C65-9B82-50EAB8ED7666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA74DD09-C495-4C65-9B82-50EAB8ED7666}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51BED931-D364-47E2-B0A2-EB656420FF21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51BED931-D364-47E2-B0A2-EB656420FF21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51BED931-D364-47E2-B0A2-EB656420FF21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51BED931-D364-47E2-B0A2-EB656420FF21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACCD5C75-1976-4947-961A-962051A857D1}
+	EndGlobalSection
+EndGlobal
